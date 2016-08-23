@@ -1,6 +1,8 @@
 # IsPhoneEncrypted
 
-Check if disk is fully encrypted. I created this app to understand if my Huawei P9 Lite was encrypted or not, because any menu about that is removed.
+Check if disk is fully encrypted.
+
+I created this app to understand if my Huawei P9 Lite was encrypted or not, because any menu about that was removed.
 
 ## Download
 
